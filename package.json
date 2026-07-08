@@ -1,0 +1,13 @@
+{
+  "name": "eliza-marin-portfolio",
+  "version": "0.1.0",
+  "description": "Personal portfolio site for Eliza Marin.",
+  "scripts": {
+    "dev": "live-server src --port=3000",
+    "build": "node scripts/build.js",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
