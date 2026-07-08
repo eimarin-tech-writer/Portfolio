@@ -1,5 +1,5 @@
 // Minimal static build: copy everything in src/ to dist/.
-// No framework, no bundler — just a reproducible output folder for deploy.
+// No framework, no bundler, just a reproducible output folder for deploy.
 const fs = require("fs");
 const path = require("path");
 
